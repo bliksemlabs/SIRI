@@ -23,20 +23,16 @@
 				<Date>
 					<Modified>2005-05-11</Modified>
 				</Date>
-				<Date>
-					<Modified>2007-04-17</Modified>
+				<Date><Modified>2007-04-17</Modified>
 				 Name Space changes 
 				</Date>
-				<Date>
-					<Modified>2007-03-26</Modified>
+				<Date><Modified>2007-03-26</Modified>
 				 Drop separate flatten structure on response for VehicleActivity 
 				</Date>
-				<Date>
-					<Modified>2008-11-17</Modified>
+				<Date><Modified>2008-11-17</Modified>
 				 Revise to support substitution groups 
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 +SIRI v2.0 
 		
 					  [MTA] Add MaximumNumberOfCalls to request
@@ -44,19 +40,16 @@
 					  [VDV]  Revise MonitoredVehicleJourney to include additional result files
 				     [SIRI-LITE] Whether any related Situations  should be included in the ServiceDelivery. Default is 'false'. +SIRI v2.0
 				</Date>
-				<Date>
-					<Modified>2012-04-29</Modified>
+				<Date><Modified>2012-04-29</Modified>
 					 +SIRI v2.0 
 		
 					  -	 [MTA]Modify  MaximumNumberOfCalls to be consistent with SM
 					  -  [General] Add hasSItuations and hasMaximumNumberOfCalls to Capabilities
 					  - [FR]    Add Extensions tag to VehicleMonitoringSubscriptionRequest
 				</Date>
-				<Date>
-					<Modified>2013-02-11</Modified>
+				<Date><Modified>2013-02-11</Modified>
 					Revised VehicleActivityCancellationIdentityGroup making elements optional
 				</Date>
-				
 				<Description>
 					<p>SIRI is a European CEN standard for the exchange of Public Transport real-time information.</p>
 					<p>This sub-schema describes the Vehicle Monitoring Service.</p>

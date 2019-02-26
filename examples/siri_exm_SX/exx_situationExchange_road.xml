@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- (C) Copyright 2005-2012 CEN SIRI -->
-<siri:RoadSituationElement xsi:schemaLocation="http://www.siri.org.uk/siri ../../xsd/siri.xsd" xmlns:d2="http://datex2.eu/schema/2_0RC1/2_0" xmlns:acsb="http://www.ifopt.org.uk/acsb" xmlns:siri="http://www.siri.org.uk/siri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<siri:RoadSituationElement xmlns:d2="http://datex2.eu/schema/2_0RC1/2_0" xmlns:acsb="http://www.ifopt.org.uk/acsb" xmlns:siri="http://www.siri.org.uk/siri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.siri.org.uk/siri ../../xsd/siri.xsd">
 	<siri:CreationTime>2001-12-17T09:30:47.0Z</siri:CreationTime>
 	<siri:ParticipantRef>RAILCO01</siri:ParticipantRef>
 	<siri:SituationNumber>000354</siri:SituationNumber>
@@ -84,7 +84,6 @@
 			<siri:ByMobile>true</siri:ByMobile>
 		</siri:PublishToAlertsAction>
 	</siri:PublishingActions>
-	
 	<!-- 
 	<siri:SituationRecord xsi:type="d2:Accident" id="GUID2A22530C-D452-4ae8-B942-993BC2923D1">
 		<d2:situationRecordCreationReference>abc</d2:situationRecordCreationReference>

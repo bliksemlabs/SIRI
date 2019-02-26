@@ -49,15 +49,15 @@
 						<Suitability>
 							<acsb:Suitable>suitable</acsb:Suitable>
 							<acsb:UserNeed>
-								<acsb:MobilityNeed>wheelchair</acsb:MobilityNeed> 
+								<acsb:MobilityNeed>wheelchair</acsb:MobilityNeed>
 							</acsb:UserNeed>
 						</Suitability>
 					</Suitabilities>
 				</Facility>
-							<!--====STATUS ============================================ -->
+				<!--====STATUS ============================================ -->
 				<FacilityStatus>
 					<Status>notAvailable</Status>
-					<Description >Lift Broken</Description>
+					<Description>Lift Broken</Description>
 					<AccessibilityAssessment>
 						<acsb:MobilityImpairedAccess>true</acsb:MobilityImpairedAccess>
 						<acsb:Limitations>

@@ -25,24 +25,19 @@
 				<Date>
 					<Modified>2005-05-11</Modified>
 				</Date>
-				<Date>
-					<Modified>2007-04-17</Modified>
+				<Date><Modified>2007-04-17</Modified>
 					 Name Space changes 
 				</Date>
-				<Date>
-					<Modified>2008-11-17</Modified>
+				<Date><Modified>2008-11-17</Modified>
 					 Revise to support substitution groups 
 				</Date>
-				<Date>
-					<Modified>2011-01-19</Modified>
+				<Date><Modified>2011-01-19</Modified>
 					 Drop use of As Flat Groups for InterChangeJourney 
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 +SIRI v2.0
 				</Date>
-				<Date>
-					<Modified>2012-04-18</Modified>
+				<Date><Modified>2012-04-18</Modified>
 					Add valid until to response
 					 +SIRI v2.0
 					 
@@ -154,7 +149,7 @@ Rail transport, Roads and road transport
 					<xsd:group ref="ConnectionTimetableRequestPolicyGroup"/>
 					<xsd:element ref="Extensions" minOccurs="0"/>
 				</xsd:sequence>
-		<xsd:attribute name="version" type="VersionString" default="2.0">
+				<xsd:attribute name="version" type="VersionString" default="2.0">
 					<xsd:annotation>
 						<xsd:documentation>Version number of request. Fixed 
 </xsd:documentation>
@@ -218,7 +213,7 @@ Rail transport, Roads and road transport
 					<xsd:group ref="ConnectionTimetablePayloadGroup"/>
 					<xsd:element ref="Extensions" minOccurs="0"/>
 				</xsd:sequence>
-		<xsd:attribute name="version" type="VersionString" default="2.0">
+				<xsd:attribute name="version" type="VersionString" default="2.0">
 					<xsd:annotation>
 						<xsd:documentation>Version number of response. Fixed 
 </xsd:documentation>
@@ -395,7 +390,7 @@ Rail transport, Roads and road transport
 					</xsd:element>
 					<xsd:element ref="Extensions" minOccurs="0"/>
 				</xsd:sequence>
-		<xsd:attribute name="version" type="VersionString" default="2.0">
+				<xsd:attribute name="version" type="VersionString" default="2.0">
 					<xsd:annotation>
 						<xsd:documentation>
 Version number of response. Fixed 
