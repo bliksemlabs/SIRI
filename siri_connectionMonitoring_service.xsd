@@ -26,29 +26,24 @@
 				<Date>
 					<Modified>2005-05-11</Modified>
 				</Date>
-				<Date>
-					<Modified>2007-04-17</Modified>
+				<Date><Modified>2007-04-17</Modified>
 					 Name Space changes 
 				</Date>
-				<Date>
-					<Modified>2008-11-17</Modified>
+				<Date><Modified>2008-11-17</Modified>
 				 Revise to support substitution groups 
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 +SIRI v2.0
 					  Add SuggestedWaitDecisionTime to MonitoredArrival
 				</Date>
-				<Date>
-					<Modified>2012-04-18</Modified>
+				<Date><Modified>2012-04-18</Modified>
 					 +SIRI v2.0
 					  Add ValidUntil Time to MonitoredFeederArrival
 					  
      	* [FR]    Add Extensions tag to ConnectionMonitoringSubscriptionRequest
 					[DE] Correct Capabilities matrix
 				</Date>
-				<Date>
-					<Modified>2013-01-24</Modified>
+				<Date><Modified>2013-01-24</Modified>
 				 WB: insert the AimedArrivalTime in MonitoredFeederArrival; insert the ArrivalPlatformName into MonitoredFeederArrival
 				</Date>
 				<Description>

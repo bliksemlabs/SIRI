@@ -50,25 +50,20 @@
 				<Contributor>Gustav Thiessen BLIC thi@BLIC.DE, de 2.0 v1.0</Contributor>
 				<Contributor>Jeff Maki, openplans, us, v2.0</Contributor>
 				<Coverage>Europe</Coverage>
-				<Creator>>Drafted for version 1.0 &amp; Version 2.0 CEN TC278 WG3 SG7 Editor Nicholas Knowles, Kizoom. mailto:schemer@siri.org.uk</Creator>
-				<Date>
-					<Created>2008-11-17</Created>
+				<Creator>&gt;Drafted for version 1.0 &amp; Version 2.0 CEN TC278 WG3 SG7 Editor Nicholas Knowles, Kizoom. mailto:schemer@siri.org.uk</Creator>
+				<Date><Created>2008-11-17</Created>
 					 Created from Siri.xsd 
 				</Date>
-				<Date>
-					<Modified>2008-04-18</Modified>
+				<Date><Modified>2008-04-18</Modified>
 					 Revised 
 				</Date>
-				<Date>
-					<Modified>2009-03-30</Modified>
+				<Date><Modified>2009-03-30</Modified>
 					 Remove uneccessary groups 
 				</Date>
-				<Date>
-					<Modified>2011-04-18</Modified>
+				<Date><Modified>2011-04-18</Modified>
 				 Updated journey, request and other subpackages - see readme 
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 SIRI Version 2.0 
 					  Refactored to improve modularisation
 					  See Readme.txt for list of changes

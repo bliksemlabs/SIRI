@@ -23,24 +23,19 @@
 				<Date>
 					<Modified>2005-05-11</Modified>
 				</Date>
-				<Date>
-					<Modified>2005-12-12</Modified>
+				<Date><Modified>2005-12-12</Modified>
 					2005 12 07 Correct Spelling of StopMonitorPermissionTag 
 				</Date>
-				<Date>
-					<Modified>2007-04-17</Modified>
+				<Date><Modified>2007-04-17</Modified>
 					 Name Space changes 
 				</Date>
-				<Date>
-					<Modified>2007-03-26</Modified>
+				<Date><Modified>2007-03-26</Modified>
 				 Drop separate flatten structure on response for stopVisit 
 				</Date>
-				<Date>
-					<Modified>2008-11-17</Modified>
+				<Date><Modified>2008-11-17</Modified>
 				 Revise to support substitution groups 
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 +SIRI v2.0 
 					   Improve modualirisatuioin
 						 Factor out permissions to commomn files

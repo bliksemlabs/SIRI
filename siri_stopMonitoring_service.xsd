@@ -24,35 +24,28 @@
 				<Date>
 					<Modified>2005-05-11</Modified>
 				</Date>
-				<Date>
-					<Modified>2007-04-17</Modified>
+				<Date><Modified>2007-04-17</Modified>
 				 Name Space changes 
 				</Date>
-				<Date>
-					<Modified>2008-03-26</Modified>
+				<Date><Modified>2008-03-26</Modified>
 				 Drop separate flatten structure on response for stopVisit 
 				</Date>
-				<Date>
-					<Modified>2008-05-08</Modified>
+				<Date><Modified>2008-05-08</Modified>
 					 (a) Correct missing type on FeatureRef 
 					 (b) Add optional MonitoringRef on response so that can return the identfiier even if there are no stop visits.
 						 This allows client to be stateless - 
 					 (a) Add a StopMonitoringMultipleRequest and othe elements top support multiple stops on single request 
 				</Date>
-				<Date>
-					<Modified>2008-10-06</Modified>
+				<Date><Modified>2008-10-06</Modified>
 					 Drop redundant groups 
 				</Date>
-				<Date>
-					<Modified>2008-11-17</Modified>
+				<Date><Modified>2008-11-17</Modified>
 					 Revise to support substitution groups 
 				</Date>
-				<Date>
-					<Modified>2009-03-30</Modified>
+				<Date><Modified>2009-03-30</Modified>
 					 On SiriRequest change the element type of MaximumNumberOfCalls and MaximumNumberOfCallsOnwards from xsd:positiveInteger to xsd:nonNegativeInteger 
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 +SIRI v2.0  
 					  [VDV] Add Minimum-StopVisits�PerVia to STopMonitoringRequestPolicy
 					  [VDV] Add HasMinimum-StopVisits�Via to STopMonitoringCapabilities
@@ -62,20 +55,17 @@
 					  [SIRI-LITE] Allow a monitoring name in results. 
 					   [SIRI-LITE] Whether any related Situations  should be included in the ServiceDelivery. Default is 'false'. +SIRI v2.0
 				</Date>
-				<Date>
-					<Modified>2012-04-18</Modified>
+				<Date><Modified>2012-04-18</Modified>
 					 +SIRI v2.0
 					  [VDV] Add ValidUntil Time to MonitoredStopVisit
 					  Correct comment on MaximumNumberOfCalls elements
 				</Date>
-				<Date>
-					<Modified>2012-04-18</Modified>
+				<Date><Modified>2012-04-18</Modified>
 					 +SIRI v2.0
 					  [VDV] Add normal realtiem service  Time to MonitoredStopVisit 
 					  Geeneral update permissions to include has SItuations
 				</Date>
-				<Date>
-					<Modified>2013-02-11</Modified>
+				<Date><Modified>2013-02-11</Modified>
 					 Correction: ServiceExceptionStatus is optional
 					 enumeration value realtmeDataAvailable corrected
 					 StopNotice and StopNoticeCancellation added

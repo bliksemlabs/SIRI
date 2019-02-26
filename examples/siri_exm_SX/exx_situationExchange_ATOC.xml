@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- (C) Copyright 2005-2012 CEN SIRI -->
-<siri:PtSituationElement xsi:schemaLocation="http://www.siri.org.uk/siri ../../xsd/siri.xsd" xmlns:acsb="http://www.ifopt.org.uk/acsb" xmlns:siri="http://www.siri.org.uk/siri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<siri:PtSituationElement xmlns:acsb="http://www.ifopt.org.uk/acsb" xmlns:siri="http://www.siri.org.uk/siri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.siri.org.uk/siri ../../xsd/siri.xsd">
 	<siri:CreationTime>2001-12-17T09:30:47.0Z</siri:CreationTime>
 	<siri:ParticipantRef>RAILCO01</siri:ParticipantRef>
 	<siri:SituationNumber>000354</siri:SituationNumber>

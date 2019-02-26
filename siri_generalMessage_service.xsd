@@ -8,7 +8,7 @@
 				<Contributor>CEN TC278 WG3 SG7 Team</Contributor>
 				<Contributor>Gustav Thiessen BLIC thi@BLIC.DE</Contributor>
 				<Coverage>Europe</Coverage>
-				<Creator>>Drafted for version 1.0 CEN TC278 WG3 SG7 Editor Nicholas Knowles, Kizoom. mailto:schemer@siri.org.uk</Creator>
+				<Creator>&gt;Drafted for version 1.0 CEN TC278 WG3 SG7 Editor Nicholas Knowles, Kizoom. mailto:schemer@siri.org.uk</Creator>
 				<Date>
 					<Created>2004-09-29</Created>
 				</Date>
@@ -24,22 +24,18 @@
 				<Date>
 					<Modified>2005-05-11</Modified>
 				</Date>
-				<Date>
-					<Modified>2007-04-17</Modified>
+				<Date><Modified>2007-04-17</Modified>
 					 Name Space changes 
 				</Date>
-				<Date>
-					<Modified>2008-11-17</Modified>
+				<Date><Modified>2008-11-17</Modified>
 					 Revise to support substitution groups 
 				</Date>
-				<Date>
-					<Modified>2011-04-18</Modified>
+				<Date><Modified>2011-04-18</Modified>
 				 (i) siri_generalMessage_service.xsd (line 221) Missing extension point in InfoMessageStructure in Robin Vettier Ixxi.biz
        (ii) and siri_generalMessage_service.xsd subscription structure 
        (iii) Missing type: Assign a type of normalizedString to formatRef
 				</Date>
-				<Date>
-					<Modified>2012-03-23</Modified>
+				<Date><Modified>2012-03-23</Modified>
 					 +SIRI v2.0
 				</Date>
 				<Description>
